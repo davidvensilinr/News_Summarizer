@@ -1,5 +1,6 @@
 sentiment_analysis.py
-env/
-notebook/
-notebook*
+myenv/
+mynotebook/
+mynotebook*
+
 notebook/
