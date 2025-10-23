@@ -1,0 +1,1 @@
+**News Summarizer** - Summarizing large Articles of news, additionally analyzing their sentiment [positive,negative,neutral]
